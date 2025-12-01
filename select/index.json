@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "大阪LOVER",
+  "base_artist": "DREAMS COME TRUE",
+  "createdAt": "2025-12-01T13:18:10.098605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/01_大阪LOVER_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/02_大阪LOVER_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "「大阪LOVER」",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/03_「大阪LOVER」_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "大阪LOVER - Osaka Lover",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/04_大阪LOVER_-_Osaka_Lover_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "大阪LOVER - Osaka Lover",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/05_大阪LOVER_-_Osaka_Lover_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "大阪LOVER – DOSCO prime Version –",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/06_大阪LOVER_–_DOSCO_prime_Version_–_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DREAMS COME TRUE - 「大阪LOVER」",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/07_DREAMS_COME_TRUE_-_「大阪LOVER」_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "Da-iCE",
+      "has_synced": true,
+      "path": "select/08_大阪LOVER_Da-iCE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "大阪LOVER -ALBUM EDITION-",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/09_大阪LOVER_-ALBUM_EDITION-_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/10_大阪LOVER_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "大阪LOVER - DOSCO prime Version",
+      "artist": "DREAMS COME TRUE",
+      "has_synced": true,
+      "path": "select/11_大阪LOVER_-_DOSCO_prime_Version_DREAMS_COME_TRUE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/12_大阪LOVER_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Osaka Lover (大阪LOVER)",
+      "artist": "Dreams Come True",
+      "has_synced": true,
+      "path": "select/13_Osaka_Lover_(大阪LOVER)_Dreams_Come_True.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "大阪LOVER",
+      "artist": "Dreams Come True",
+      "has_synced": false,
+      "path": "select/14_大阪LOVER_Dreams_Come_True.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大阪LOVER",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_01_大阪LOVER_SCANDAL.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "大阪LOVER",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_02_大阪LOVER_SCANDAL.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "大阪LOVER",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_03_大阪LOVER_SCANDAL.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "大阪LOVER",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_04_大阪LOVER_SCANDAL.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "大阪LOVER",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_05_大阪LOVER_SCANDAL.txt"
+    }
+  ]
+}
